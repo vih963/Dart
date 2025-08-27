@@ -1,4 +1,3 @@
-import 'dart:io';
 
 class Animal {
   String? tipo;
